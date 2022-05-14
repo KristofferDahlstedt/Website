@@ -1,0 +1,24 @@
+
+body {
+  background: #171727;
+  font-family: Arial;
+}
+
+.nav-bar {
+  display: flex;
+  margin: auto;
+  background: #171727;
+  padding: 10px;
+}
+
+.nav-elements {
+  display: flex;
+  margin: auto;
+  padding: 0px 20px;
+}
+
+.nav-elements > .nav-element {
+  color: rgba(255,255,255,.7);
+  padding: 5px 10px;
+  margin: 0 5px;
+}
